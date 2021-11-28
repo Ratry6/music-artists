@@ -1,0 +1,32 @@
+.header{
+    text-align: center;
+    background-color: rgb(218, 238, 231);
+    height: 200px ;
+    padding-top: 30px;
+    color: rgb(147, 147, 211)
+}
+.header p{
+    font-size: 17px;
+}
+.header h2{
+    color: rgb(58, 103, 187);
+    margin-bottom: 20px;
+}
+
+.nav {
+    background-color: rgb(148, 202, 216);
+    overflow: hidden;
+  }
+  
+  
+  .nav a {
+    
+    color: #351da1;
+    text-align: center;
+    padding: 20px 16px;
+     text-decoration: none;
+    font-size: 16px;
+  }
+  
+ 
+  

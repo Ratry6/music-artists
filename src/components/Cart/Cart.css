@@ -1,0 +1,25 @@
+.cart-part{
+    margin-top: 80px;
+    padding :60px;
+    border: 1px solid rgb(236, 225, 225);
+    border-radius: 10px;
+    
+}
+.cart-part:hover{
+    background-color: rgb(180, 218, 228);
+}
+.cart-title{
+    color: rgb(84, 66, 100);
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.cart-part h4{
+     color: rgb(61, 107, 175);
+     font-size: 18px;
+     font-weight: 500;
+}
+.cart-part p{
+    color: rgb(9, 83, 129);
+    font-size: 17px;
+}
